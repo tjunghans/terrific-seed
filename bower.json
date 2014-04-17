@@ -1,0 +1,11 @@
+{
+	name: "terrific-seed",
+	description: "A starter project for TerrificJS",
+	version: "0.0.0",
+	homepage: "https://github.com/tjunghans/terrific-seed",
+	license: "MIT",
+	private: true,
+	dependencies: {
+		jquery: "1.11.x"
+	}
+}
