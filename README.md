@@ -1,0 +1,4 @@
+terrific-seed
+=============
+
+TerrificJS skeleton
